@@ -1,0 +1,18 @@
+DX704 Week 5 — Acknowledgments
+Date: 2025-10-01
+
+People / Discussions
+- None.
+
+External Libraries (beyond standard course stack)
+- None. (Used only standard Python csv library for writing TSV files.)
+
+Data Sources
+- part1.png, part2.png, part3.png (provided as course materials).
+- part1.dot, part2.dot, part3.dot (provided as course materials).
+
+Generative AI Usage
+- None.
+
+Other Sources
+- DX601–DX704 example notebooks and lecture materials referenced as allowed.
